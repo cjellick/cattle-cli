@@ -1,1 +1,1 @@
-gdapi-python==0.5.0
+git+https://github.com/cjellick/gdapi-python.git@2524ec87137e3010a1e8caa5233b69402204c5f8
